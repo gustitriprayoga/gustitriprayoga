@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-http://link-foto](https://i.ibb.co/G2k97js/unknown.png
+<img src=”https://i.ibb.co/G2k97js/unknown.png)”>
 
 <!--
 **gustitriprayoga/gustitriprayoga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
