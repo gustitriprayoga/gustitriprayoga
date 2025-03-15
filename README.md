@@ -57,10 +57,6 @@
   
 </div>
 
-<marquee><h4 align="center">🔥STREAK 🔥</h4></marquee>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=gustitriprayoga&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
 
 ###
 
