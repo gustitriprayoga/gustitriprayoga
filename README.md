@@ -20,7 +20,14 @@
 <div align="center">
     <img src="https://streak-stats.demolab.com/?user=gustitriprayoga&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
     <br>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gustitriprayoga&custom_title=G%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+    <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=gustitriprayoga&custom_title=G%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" /> -->
+    <p align="center" >
+        <picture>
+            <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/gustitriprayoga/gustitriprayoga/output-3d-contrib/night.svg" />
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustitriprayoga/gustitriprayoga/output-3d-contrib/day.svg" />
+            <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/gustitriprayoga/gustitriprayoga/output-3d-contrib/day.svg" />
+        </picture>
+    </p>
     <br>
     <div align="center">
         <table>
@@ -39,20 +46,14 @@
     </div>
 </div>
 
-<p align="center" >
-	<picture>
-        <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/gustitriprayoga/gustitriprayoga/output-3d-contrib/night.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustitriprayoga/gustitriprayoga/output-3d-contrib/day.svg" />
-        <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/gustitriprayoga/gustitriprayoga/output-3d-contrib/day.svg" />
-	 </picture>
-</p>
+
 
 ---
 
 ## <div align="center">🏆 **Achievement Showcase** 🏆</div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mocsid&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gustitriprayoga&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
