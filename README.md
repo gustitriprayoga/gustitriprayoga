@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=15CADC&width=500&height=100&lines=Hi+%F0%9F%96%90%EF%B8%8F+There;I'm+Gusti+Tri+Prayoga;Fullstack+Development+%26+Frelance)](https://git.io/typing-svg)
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=500&height=100&lines=Hi+%F0%9F%96%90%EF%B8%8F+There;I'm+Gusti+Tri+Prayoga;Fullstack+Development+%26+Frelance" alt="Typing SVG" /></a>
+---
 <h2 align="center">🛠️ MY PROGRAMING LANGUAGE 🛠️</h2>
 <br/>
 <div align="center">
@@ -17,13 +17,13 @@
         <table>
             <tr>
                 <td>
-                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivancotacte&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustitriprayoga&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
                 </td>
                 <td>
-                    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ivancotacte&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+                    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gustitriprayoga&theme=highcontrast&hide_border=true" alt="Repos Per Language">
                 </td>
                 <td>
-                    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ivancotacte&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+                    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gustitriprayoga&theme=highcontrast&hide_border=true" alt="Most Commit Language">
                 </td>
             </tr>
         </table>
