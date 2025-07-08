@@ -1,4 +1,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=500&height=100&lines=Hi+%F0%9F%96%90%EF%B8%8F+There;I'm+Gusti+Tri+Prayoga;Fullstack+Development+%26+Frelance" alt="Typing SVG" /></a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustitriprayoga/gustitriprayoga/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustitriprayoga/gustitriprayoga/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gustitriprayoga/gustitriprayoga/output/pacman-contribution-graph.svg">
+</picture>
 ---
 <h2 align="center">🛠️ MY PROGRAMING LANGUAGE 🛠️</h2>
 <br/>
@@ -7,6 +13,7 @@
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,laravel,mongodb,mysql,blender" />
 </div>
 
+---
 <h2 align="center">📊 GIT STATS 📊</h2>
 <div align="center">
     <img src="https://streak-stats.demolab.com/?user=gustitriprayoga&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
@@ -28,4 +35,18 @@
             </tr>
         </table>
     </div>
+</div>
+
+---
+
+## <div align="center">🏆 **Achievement Showcase** 🏆</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mocsid&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=100&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=16&fontColor=ffffff&animation=twinkling"/>
 </div>
