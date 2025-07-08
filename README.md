@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=500&height=100&lines=Hi+%F0%9F%96%90%EF%B8%8F+There;I'm+Gusti+Tri+Prayoga;Fullstack+Development+%26+Frelance" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000FF&width=500&height=100&lines=Hi+%F0%9F%96%90%EF%B8%8F+There;I'm+Gusti+Tri+Prayoga;Fullstack+Development+%26+Frelance" alt="Typing SVG" /></a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustitriprayoga/gustitriprayoga/output/pacman-contribution-graph-dark.svg">
@@ -41,9 +41,9 @@
 
 <p align="center" >
 	<picture>
-        <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/<github_user>/<repository>/output-3d-contrib/night.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<github_user>/<repository>/output-3d-contrib/day.svg" />
-        <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/<github_user>/<repository>/output-3d-contrib/day.svg" />
+        <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/gustitriprayoga/gustitriprayoga/output-3d-contrib/night.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustitriprayoga/gustitriprayoga/output-3d-contrib/day.svg" />
+        <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/gustitriprayoga/gustitriprayoga/output-3d-contrib/day.svg" />
 	 </picture>
 </p>
 
